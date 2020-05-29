@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="save">Сохранить</string>
+    <string name="editTask">Введите дело</string>
+</resources>
